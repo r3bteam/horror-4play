@@ -1,1 +1,1 @@
-worker: node index.js
+worker: java -jar bot.jar -nogui
