@@ -1,6 +1,6 @@
 token=NDg3NjQ3MTYzODI5MDU5NTg3.DnnCOg.9lQwZGdQdxPYa9t8txMNKlchipo
 owner=450711003324350485 
 prefix=4
-game=Skillful Community.
+game=Clam Server.
 stayinchannel=true
 songinstatus=true
